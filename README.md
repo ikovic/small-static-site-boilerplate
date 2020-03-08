@@ -1,12 +1,6 @@
-# vanilla-js-boilerplate
-Simple boilerplate for vanilla JS projects
+# small-static-site-boilerplate
 
-## Description
-Boilerplate contains just a blank project with a few generic things set up:
-- ESLint with recommended rule set
-- Prettier
-- Pre-commit hook which runs ESLint & Prettier on all JS files
+Putting together some tooling designed to make working on smaller static sites easier. Nothing complex, for now I'm using eleventy to compile nunjacks templates to HTML.
 
-## Usage
-After cloning the repo, run `npm i` to install the dependencies. Only the following script is available:
-- `npm start` - defaults to `node src/index.js` for quick start
+https://css-tricks.com/component-led-design-patterns-nunjucks-grunt/
+https://css-tricks.com/killer-features-of-nunjucks/
